@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: proyectox
+Version: 0.1.3
+Summary: Add your description here
+Requires-Python: <3.12,>=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: dotenv
+Requires-Dist: numpy<2,>=1.26.0
+Requires-Dist: pandas>=2.3.0
+Requires-Dist: requests>=2.32.4
+Requires-Dist: scikit-learn>=1.7.0
+Requires-Dist: scipy<2.0.0

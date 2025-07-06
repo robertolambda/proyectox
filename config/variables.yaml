@@ -1,0 +1,17 @@
+variable1: value1
+variable2: value2
+variable3: value3
+variable4: 
+  sub_variable1: sub_value1
+  sub_variable2: sub_value2
+
+random_forest:
+  n_estimators: 100
+  max_depth: 10
+  min_samples_split: 2
+  min_samples_leaf: 1
+  random_state: 42
+
+  
+
+

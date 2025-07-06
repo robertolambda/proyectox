@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/__init__.py
+src/modeling/__init__.py
+src/proyectox.egg-info/PKG-INFO
+src/proyectox.egg-info/SOURCES.txt
+src/proyectox.egg-info/dependency_links.txt
+src/proyectox.egg-info/requires.txt
+src/proyectox.egg-info/top_level.txt
+src/scraping/__init__.py
+src/stats/__init__.py
+src/stats/graphs.py

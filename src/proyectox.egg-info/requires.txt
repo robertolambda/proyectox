@@ -1,0 +1,6 @@
+dotenv
+numpy<2,>=1.26.0
+pandas>=2.3.0
+requests>=2.32.4
+scikit-learn>=1.7.0
+scipy<2.0.0

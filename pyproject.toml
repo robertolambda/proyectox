@@ -1,0 +1,23 @@
+[project]
+name = "proyectox"
+version = "0.1.3"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10,<3.12"
+
+dependencies = [
+    "dotenv",
+    "numpy>=1.26.0,<2",
+    "pandas>=2.3.0",
+    "requests>=2.32.4",
+    "scikit-learn>=1.7.0",
+    "scipy<2.0.0",
+]
+
+# Development dependencies
+[dependency-groups]
+dev = [
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.10.3",
+    "pyyaml>=6.0.2",
+]
