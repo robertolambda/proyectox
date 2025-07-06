@@ -9,6 +9,7 @@ def main():
     graphs.plot([1, 2, 3, 4, 5], title="Sample Data", xlabel="Index", ylabel="Value")
     dotenv.load_dotenv()
     fred_token = os.getenv("FRED_TOKEN")
+    print(fred_token)
 if __name__ == "__main__":
     main()
     
